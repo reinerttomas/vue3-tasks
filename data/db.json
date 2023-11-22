@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn Vue",
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "title": "Learn Pinia",
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "title": "Become an eldern lord",
+      "isFavorite": false
+    },
+    {
+      "id": "bd8b0a21-fe1c-4515-9d6d-cc6ca2969746",
+      "title": "make some lunch",
+      "isFavorite": true
+    }
+  ]
+}
