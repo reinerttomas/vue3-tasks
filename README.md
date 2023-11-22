@@ -1,35 +1,14 @@
-# vue3-tasks
+# Vue 3 Tasks App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple task management application built with Vue 3 and Pinia. It allows users to add, remove, and manage tasks.
 
-## Recommended IDE Setup
+## Features
+- Task Management
+- Vue 3 Composition API
+- Pinia
+- Json Server
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## How to Use
+- Add a Task
+- Delete a Task
+- Mark Task as favorite
